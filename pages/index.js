@@ -12,7 +12,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <Link href="/posts/first-post">첫 포스트</Link>
+        <Link href="/posts/first-post">첫 포스트 - 404</Link>
         <p>Hi, nice to meet you!</p>
         <p>
           (This is a sample website - you’ll be building a site like this on{" "}
